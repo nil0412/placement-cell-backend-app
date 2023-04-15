@@ -1,0 +1,25 @@
+{
+  "name": "placement-cell-backend-app",
+  "version": "1.0.0",
+  "description": "Placement backend app using nodejs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nil0412/placement-cell-backend-app.git"
+  },
+  "keywords": [
+    "nodejs"
+  ],
+  "author": "Nilesh Patil",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nil0412/placement-cell-backend-app/issues"
+  },
+  "homepage": "https://github.com/nil0412/placement-cell-backend-app#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
